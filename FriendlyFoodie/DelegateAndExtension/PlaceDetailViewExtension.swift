@@ -28,7 +28,7 @@ extension PlaceDetailViewController: UICollectionViewDelegate {
         }
     }
     
-    // Also sourced from assignment 6 
+    
     func makeLayout() -> UICollectionViewCompositionalLayout {
         return UICollectionViewCompositionalLayout { (section: Int, environment: NSCollectionLayoutEnvironment) -> NSCollectionLayoutSection? in
             let item = NSCollectionLayoutItem(layoutSize: NSCollectionLayoutSize(widthDimension: NSCollectionLayoutDimension.fractionalWidth(1.0),

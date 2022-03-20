@@ -26,7 +26,6 @@ extension ProfileViewController: UICollectionViewDelegate {
     }
     }
         
-    // Sourced from project 6 from the assignments
     // Configuring how the collection view looks
     func makeLayout() -> UICollectionViewCompositionalLayout {
         return UICollectionViewCompositionalLayout { (section: Int, environment: NSCollectionLayoutEnvironment) -> NSCollectionLayoutSection? in
