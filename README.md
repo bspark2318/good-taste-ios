@@ -13,11 +13,12 @@ Do you have Good Taste? Share your favorite restaurants with your friends, and q
 
 ### App Screenshots
 ![Sample Application Look#1](https://github.com/bspark2318/good-taste-ios/blob/main/screen-shots/PlaceDetailSS.png)
-<img src="https://github.com/bspark2318/good-taste-ios/blob/main/screen-shots/PlaceDetailSS.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
-
-![Sample Application Look#2](https://github.com/bspark2318/good-taste-ios/blob/main/screen-shots/AccountDetailSS.png)
-![Sample Application Look#3](https://github.com/bspark2318/good-taste-ios/blob/main/screen-shots/PlaceFocusSS.png)
+<img src="https://github.com/bspark2318/good-taste-ios/blob/main/screen-shots/PlaceDetailSS.png" 
+     alt="Sample Application Look#1" width="120" height="178">
+<img src="https://github.com/bspark2318/good-taste-ios/blob/main/screen-shots/AccountDetailSS.png" 
+     alt="Sample Application Look#2" width="120" height="178">
+<img src="https://github.com/bspark2318/good-taste-ios/blob/main/screen-shots/PlaceFocusSS.png" 
+     alt="Sample Application Look#3" width="120" height="240">
 
 ## Moving Forward
 
