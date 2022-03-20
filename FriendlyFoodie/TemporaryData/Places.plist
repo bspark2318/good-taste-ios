@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>endorsement</key>
+			<array>
+				<string>mid_2</string>
+			</array>
+			<key>address</key>
+			<string>215 E Chestnut St, Chicago, IL 60611</string>
+			<key>hour</key>
+			<string>8AM - 12PM</string>
+			<key>picture</key>
+			<string>cafecito</string>
+			<key>id</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>Cafecito</string>
+			<key>description</key>
+			<string>Coffeehouse specializing in pressed Cuban sandwiches plus salads, platters &amp; more in modern digs.</string>
+			<key>lat</key>
+			<real>41.89822038</real>
+			<key>long</key>
+			<real>-87.62128294</real>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>wasabi_ramen</string>
+			<key>id</key>
+			<integer>3</integer>
+			<key>name</key>
+			<string>Wasabi Ramen
+Wasabi Ramen</string>
+			<key>description</key>
+			<string>Mod, minimalist spot serving a variety of Japanese street fare with a full bar &amp; sidewalk views.</string>
+			<key>lat</key>
+			<real>41.91956361</real>
+			<key>long</key>
+			<real>-87.69159139999999</real>
+			<key>hour</key>
+			<string>9AM - 11PM</string>
+			<key>address</key>
+			<string>2101 N Milwaukee Ave, Chicago, IL 60647</string>
+			<key>endorsement</key>
+			<array>
+				<string>mid_0</string>
+				<string>mid_2</string>
+				<string>mid_1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>au_cheval</string>
+			<key>id</key>
+			<integer>0</integer>
+			<key>name</key>
+			<string>Au Cheval</string>
+			<key>description</key>
+			<string>The open kitchen at this upscale &quot;diner&quot; works with ingredients ranging from bologna to foie gras.</string>
+			<key>lat</key>
+			<real>41.8846</real>
+			<key>long</key>
+			<real>-87.6476</real>
+			<key>hour</key>
+			<string>7AM to 8PM</string>
+			<key>address</key>
+			<string>800 W Randolph St, Chicago, IL 60607</string>
+			<key>endorsement</key>
+			<array>
+				<string>mid_1</string>
+			</array>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>chicago_ramen</string>
+			<key>id</key>
+			<integer>1</integer>
+			<key>name</key>
+			<string>Chicago Ramen </string>
+			<key>description</key>
+			<string>Casual spot for Japanese ramen bowls served at a counter in a simple storefront setting.</string>
+			<key>lat</key>
+			<real>42.0237</real>
+			<key>long</key>
+			<real>-87.9097</real>
+			<key>hour</key>
+			<string>12AM to 11PM</string>
+			<key>address</key>
+			<string>578 E Oakton St, Des Plaines, IL 60018</string>
+			<key>endorsement</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>picture</key>
+			<string>harolds_chicken</string>
+			<key>id</key>
+			<integer>2</integer>
+			<key>name</key>
+			<string>Harold&apos;s Chicken Shack Fish &amp; Pizza</string>
+			<key>description</key>
+			<string>An outpost of the longrunning Chicago chain, known for its fried chicken served with white bread.</string>
+			<key>lat</key>
+			<real>41.7999</real>
+			<key>long</key>
+			<real>-87.59610000000001</real>
+			<key>hour</key>
+			<string>12AM to 12PM</string>
+			<key>address</key>
+			<string>612 S Wabash Ave, Chicago, IL 60605</string>
+			<key>endorsement</key>
+			<array>
+				<string>mid_1</string>
+				<string>mid_0</string>
+			</array>
+		</dict>
+	</array>
+	<key>region</key>
+	<array>
+		<real>41.948287</real>
+		<real>-87.655697</real>
+		<real>0.00978871051851371</real>
+		<real>0.008167393319212124</real>
+	</array>
+</dict>
+</plist>

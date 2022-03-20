@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accounts</key>
+	<array>
+		<dict>
+			<key>profile_pic</key>
+			<string>bumsu_park</string>
+			<key>id</key>
+			<string>mid_1</string>
+			<key>first_name</key>
+			<string>BumSu</string>
+			<key>last_name</key>
+			<string>Park</string>
+			<key>year_joined</key>
+			<integer>1994</integer>
+			<key>description</key>
+			<string>I am a big foodie looking for the next best ramen in Town. I&apos;ve been on the road for more than over 40 years now, and I still haven&apos;t found something that has truly shaken me to the core of my being. I hope on this app, I can find a restaurant of my dream. </string>
+			<key>endorsed_places</key>
+			<array>
+				<integer>0</integer>
+				<integer>2</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>profile_pic</key>
+			<string>elle_fantine</string>
+			<key>id</key>
+			<string>mid_2</string>
+			<key>first_name</key>
+			<string>Elle</string>
+			<key>last_name</key>
+			<string>Fantine</string>
+			<key>year_joined</key>
+			<integer>2021</integer>
+			<key>description</key>
+			<string>Just moved here and looking for my new daily haunts! So many new friends in Chicago, hoping they will come through with the recs!</string>
+			<key>endorsed_places</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>3</integer>
+				<integer>4</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>profile_pic</key>
+			<string>rosaline_tufliosa</string>
+			<key>id</key>
+			<string>mid_0</string>
+			<key>first_name</key>
+			<string>Rosaline</string>
+			<key>last_name</key>
+			<string>Tufliosa</string>
+			<key>year_joined</key>
+			<integer>2022</integer>
+			<key>description</key>
+			<string>Aspiring food journalist. Been nominated several awards for my refined palettes. </string>
+			<key>endorsed_places</key>
+			<array>
+				<integer>2</integer>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
