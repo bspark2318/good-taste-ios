@@ -20,14 +20,10 @@ Do you have Good Taste? Share your favorite restaurants with your friends, and q
 <img src="https://github.com/bspark2318/good-taste-ios/blob/main/screen-shots/PlaceFocusSS.png" 
      alt="Sample Application Look#3" width="144" height="240">
 
-## Moving Forward
-
-### Remaining To-Do List 
-- [ ] User Authentication functionality
-- [ ] Styling map cluster annotation views 
-
 ### Room for Improvements / Further Development
 - [ ] Messaging functionality 
 - [ ] API configuration with Google Places or appropriate alternative
+- [ ] User Authentication functionality
+- [ ] Styling map cluster annotation views 
 
 
